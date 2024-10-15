@@ -9,3 +9,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Output
 - simple interest = `p * t * r`
+## Footer
+- 2024 XYZ, Inc.
